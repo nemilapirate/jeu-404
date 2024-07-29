@@ -1,0 +1,14 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+	<title>Nouveau projet</title>
+	<defs>
+		<image  width="350" height="350" id="img1" href="data:image/png;base64,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"/>
+	</defs>
+	<style>
+		.s0 { fill: #ffffff } 
+	</style>
+	<use id="Calque 1" href="#img1" x="75" y="50"/>
+	<path id="Forme 1" class="s0" d="m220.5 286.4v-75.4l60.6 39z"/>
+	    <text x="50%" y="95%" font-family="Arial" font-size="60" fill="white" text-anchor="middle" dominant-baseline="middle">
+        Let's play ? 
+    </text>
+</svg>
